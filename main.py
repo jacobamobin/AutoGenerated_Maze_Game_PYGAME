@@ -1,4 +1,3 @@
-import replit
 import time
 import random
 import pygame
@@ -7,7 +6,6 @@ from tkinter import messagebox
 
 pygame.init()
 
-replit.clear()
 
 #Jacob Mobin
 # April 4th 2022
